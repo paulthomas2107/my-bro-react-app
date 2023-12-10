@@ -8,6 +8,7 @@ function App() {
     <>
       <Header />
       <Food />
+      <Food />s
       <Footer />
     </>
   );
