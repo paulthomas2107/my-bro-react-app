@@ -3,6 +3,8 @@ import Header from './Header';
 import Footer from './Footer';
 import Food from './Food';
 import MyComponent from './MyComponent';
+import ArraysDemo from './ArraysDemo';
+import MoreCars from './MoreCars';
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
       <Food />
       <Food />
       <MyComponent />
+      <ArraysDemo />
+      <MoreCars />
       <Footer />
     </>
   );
