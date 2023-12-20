@@ -5,6 +5,7 @@ import Food from './Food';
 import MyComponent from './MyComponent';
 import ArraysDemo from './ArraysDemo';
 import MoreCars from './MoreCars';
+import ToDoList from './ToDoList';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <MyComponent />
       <ArraysDemo />
       <MoreCars />
+      <ToDoList />
       <Footer />
     </>
   );
