@@ -1,3 +1,4 @@
+/*
 body {
   background-color: hsl(0, 0%, 10%);
 }
@@ -52,7 +53,7 @@ input[type='text'] {
   padding: 10px;
   border: 2px solid hsl(0, 0%, 80%, 0.5);
   border-radius: 5px;
-  color: hsla(0, 0%, 0%, 0.5);
+  color: hsla(111, 84%, 42%, 0.5);
 }
 
 ol {
@@ -81,3 +82,4 @@ li {
   font-size: 1.4rem;
   margin-left: 10px;
 }
+*/
