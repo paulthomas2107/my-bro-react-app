@@ -1,4 +1,3 @@
-
 // import './App.css';
 import Header from './Header';
 import Footer from './Footer';
@@ -8,6 +7,7 @@ import ArraysDemo from './ArraysDemo';
 import MoreCars from './MoreCars';
 import ToDoList from './ToDoList';
 import UseEffectDemo from './UseEffectDemo';
+import DigitalClock from './DigitalClock';
 /*
  <Header />
       <Food />
@@ -17,12 +17,13 @@ import UseEffectDemo from './UseEffectDemo';
       <MoreCars />
       <ToDoList />
       <Footer />
+       <UseEffectDemo />
 */
 
 function App() {
   return (
     <>
-      <UseEffectDemo />
+      <DigitalClock />
     </>
   );
 }
