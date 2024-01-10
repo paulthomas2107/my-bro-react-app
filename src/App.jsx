@@ -9,6 +9,7 @@ import MoreCars from './MoreCars';
 import ToDoList from './ToDoList';
 import UseEffectDemo from './UseEffectDemo';
 import DigitalClock from './DigitalClock';
+import ComponentA from './ComponentA';
 /*
  <Header />
       <Food />
@@ -19,12 +20,13 @@ import DigitalClock from './DigitalClock';
       <ToDoList />
       <Footer />
        <UseEffectDemo />
+        <DigitalClock />
 */
 
 function App() {
   return (
     <>
-      <DigitalClock />
+      <ComponentA />
     </>
   );
 }
