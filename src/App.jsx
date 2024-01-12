@@ -10,6 +10,7 @@ import ToDoList from './ToDoList';
 import UseEffectDemo from './UseEffectDemo';
 import DigitalClock from './DigitalClock';
 import ComponentA from './ComponentA';
+import UseRefDemo from './UseRefDemo';
 /*
  <Header />
       <Food />
@@ -26,7 +27,7 @@ import ComponentA from './ComponentA';
 function App() {
   return (
     <>
-      <ComponentA />
+      <UseRefDemo />
     </>
   );
 }
