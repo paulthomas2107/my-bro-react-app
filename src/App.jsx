@@ -11,6 +11,7 @@ import UseEffectDemo from './UseEffectDemo';
 import DigitalClock from './DigitalClock';
 import ComponentA from './ComponentA';
 import UseRefDemo from './UseRefDemo';
+import StopWatch from './StopWatch';
 /*
  <Header />
       <Food />
@@ -22,12 +23,13 @@ import UseRefDemo from './UseRefDemo';
       <Footer />
        <UseEffectDemo />
         <DigitalClock />
+         <UseRefDemo />
 */
 
 function App() {
   return (
     <>
-      <UseRefDemo />
+      <StopWatch />
     </>
   );
 }
